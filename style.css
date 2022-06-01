@@ -1,20 +1,21 @@
+/* body{
+    font-family:cursive
+}
+
+#section1{
+    background: red;
+}
+.section-title {
+    color: aqua;
+    font-family: inherit;
+} */
+
+
+
 body{
+    color: red;
     font-family: 'Courier New', Courier, monospace;
 }
-
-#sec1{
-    background-color: chocolate;
-}
-
-.sec_header{
-    color:blue;
-}
-
-#sec2 h1{
+p{
     color: black;
-    font-family: 'Roboto', sans-serif;
-}
-
-h1{
-    font-family: sans-serif;
 }
