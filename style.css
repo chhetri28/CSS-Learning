@@ -23,32 +23,3 @@ body{
 }
 
  */
-.main{
-    font-size: 40px;
-    font-weight: bold;
-    margin: 40px;
-}
-.content{
-    margin-left: 40px;
-    border: 50px solid #F6B533;
-    width: 300px;
-    height: 200px;
-    text-align: center;
-    padding: 50px;
-    align-items: center;
-    
-}
-.content1{
-    font-size: 42px;
-    font-weight: bold;
-    color: crimson;
-    margin-top: 40px;
-    background-color: black;
-}
-.content2{
-    font-size: 18px;
-    font-weight: bold;
-    color: greenyellow;
-    margin-top: 40px;
-    background-color: yellowgreen;
-}
