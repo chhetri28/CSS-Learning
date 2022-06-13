@@ -9,6 +9,7 @@ main{
     position: fixed;
     z-index: -1;
 }
+
 .package{
     width: 100%;
     margin: 16px 0;
